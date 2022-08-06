@@ -47,7 +47,8 @@ https://github.com/othneildrew/Best-README-Template -->
 
 
   ### Built With
-  &nbsp; &nbsp; &nbsp; <img src="Read_Me_Content/Tech/python.JPG" alt="Python_Logo" width="80"> &nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp; <img src="Read_Me_Content/Tech/Python.JPG" alt="Python_Logo" width="80"> &nbsp; &nbsp;
+  
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b><i> Python</i></b>
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -126,7 +127,9 @@ clusters, representing a larger sample space.
 <!-- CONTACT -->
 ## Contact
   <b>Uditya Laad</b> &nbsp; [@linkedin.com/in/uditya-laad-222680148](https://www.linkedin.com/in/uditya-laad-222680148/)
+  
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [@github.com/udityalaad](https://github.com/udityalaad)
+  
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; udityalaad123@gmail.com
 
   <b>Project Link</b> &nbsp; [https://github.com/udityalaad/Clust_Reduce](https://github.com/udityalaad/Clust_Reduce)
