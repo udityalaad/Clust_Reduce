@@ -15,7 +15,7 @@ https://github.com/othneildrew/Best-README-Template -->
   </p>
 </div>
 
-
+<br>
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -34,7 +34,7 @@ https://github.com/othneildrew/Best-README-Template -->
   </ol>
 </details>
 
-
+<br>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
