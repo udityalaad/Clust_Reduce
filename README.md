@@ -141,5 +141,6 @@ clusters, representing a larger sample space.
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
   * ECE 657, Assignment 2, Hatham Amar, University of Waterloo, Waterloo, ON, CA
+  * [github.com/othneildrew/Best-README-Template/](https://github.com/othneildrew/Best-README-Template)
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
