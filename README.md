@@ -49,7 +49,7 @@ https://github.com/othneildrew/Best-README-Template -->
 ## Built With
   &nbsp; &nbsp; &nbsp; <img src="Read_Me_Content/Tech/Python.JPG" alt="Python_Logo" width="50"> &nbsp; &nbsp;
 
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b><i> Python</i></b>
+  &nbsp; &nbsp; &nbsp; <b><i> Python</i></b>
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
