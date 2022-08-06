@@ -74,7 +74,7 @@ https://github.com/othneildrew/Best-README-Template -->
 
 <!-- USAGE EXAMPLES -->
 ## Case Study Analysis
-  We tried ClustReduce on random RGB color data over a 100 x 100 map size. The input included a sparse color domain consisting of multiple occurences of 24 unique RGB colors. The detailed report can be found in Report.pdf in the parent directory.
+  We tried ClustReduce on random RGB color data over a 100 x 100 map size. The input included a sparse color domain consisting of multiple occurences of 24 unique RGB combinations. The detailed report can be found in Report.pdf in the parent directory.
 
   Following were the clustering results in a 100 x 100 reduced space:
   * Spread = 1:
