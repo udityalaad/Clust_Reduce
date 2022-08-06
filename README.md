@@ -6,7 +6,7 @@ https://github.com/othneildrew/Best-README-Template -->
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h2 align="center"><i> Clust-Reduce </i></h2>
+  <h1 align="center"><i> Clust-Reduce </i></h1>
 
   <img src="Read_Me_Content/Top_Logo.JPG" alt="TopLogo" width="100%">
   
