@@ -9,7 +9,7 @@ https://github.com/othneildrew/Best-README-Template -->
   <h1 align="center"><i> Clust-Reduce </i></h1>
 
   <img src="Read_Me_Content/Top_Logo.JPG" alt="TopLogo" width="100%">
-  
+   
   <p align="center">
     A custom Kohenen Self-Organising Map for clustering inputs and reducing dimensionality of the input space !
   </p>
